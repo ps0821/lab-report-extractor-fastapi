@@ -36,9 +36,7 @@ It exposes a **REST API** with a `/get-lab-tests` POST endpoint and a custom web
 ---
 
 ## 🚀 Live Demo
-
-- 🔗 **Frontend UI:** [https://lab-report-extractor-fastapi.onrender.com](https://lab-report-extractor-fastapi.onrender.com)
-- 🔗 **Swagger Docs:** [https://lab-report-extractor-fastapi.onrender.com/docs](https://lab-report-extractor-fastapi.onrender.com/docs)
+- 🔗 **Swagger Docs:** [https://lab-report-extractor-fastapi.onrender.com/docs](https://lab-report-extractor-fastapi-production.up.railway.app/docs#/default/get_lab_tests_get_lab_tests_post)
 
 ---
 
