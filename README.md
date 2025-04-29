@@ -3,7 +3,10 @@
 A powerful and lightweight FastAPI service to **extract lab test names, values, and reference ranges** from medical report images using OCR, image preprocessing, and regex-based parsing — **without using any LLMs**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/YOUR_IMAGE" alt="Lab Report Extractor UI" width="700"/>
+  <img width="1440" alt="Screenshot 2025-04-29 at 1 19 38 PM" src="https://github.com/user-attachments/assets/c46e3986-7d09-4e89-87da-986f86ad0172" />
+  <img width="1438" alt="Screenshot 2025-04-29 at 1 20 28 PM" src="https://github.com/user-attachments/assets/8ac0433b-d86c-45b8-ab64-f635879c3038" />
+  <img width="1440" alt="Screenshot 2025-04-29 at 1 20 06 PM" src="https://github.com/user-attachments/assets/d3140f56-ae09-430c-8495-446f7a2e2cc6" />
+  <img width="1410" alt="Screenshot 2025-04-29 at 1 21 26 PM" src="https://github.com/user-attachments/assets/e6c46d37-009e-4912-89f8-4fb2ec321852" />
 </p>
 
 ---
